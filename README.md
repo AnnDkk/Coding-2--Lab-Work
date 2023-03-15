@@ -1,16 +1,16 @@
 # Coding-2--Lab-Work
 
-## C++.1--WEEK2
+## C++.1--WEEK 2
 
 
-## C++.2--WEEK3
-
-
-
-## C++.3--WEEK4
+## C++.2--WEEK 3
 
 
 
-## Python.1--WEEK5
+## C++.3--WEEK 4
 
-## Python.2--WEEK6&7
+
+
+## Python.1--WEEK 5
+
+## Python.2--WEEK 6&7
