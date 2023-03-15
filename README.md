@@ -4,7 +4,7 @@ Video collection：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=97a
 ## C++.1--WEEK 2
 Using openframework to transform the sound spectrum appeared heart wave
 <br>
-Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0e8cc320-4d76-4e32-8824-afc60122eff6
+Video Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0e8cc320-4d76-4e32-8824-afc60122eff6
 
 <div align=center>
 <img src="https://github.com/AnnDkk/Coding-2--Lab-Work/blob/main/Coding2%20Image/WechatIMG450.png" width="400" height="300">
@@ -14,7 +14,7 @@ Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=0e8cc320-
 ## C++.2--WEEK 3
 Use Boid to make two flocks
 <br>
-Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=358fbc0d-1a40-40f0-8506-afc60122eff2
+Video Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=358fbc0d-1a40-40f0-8506-afc60122eff2
 <div align=center>
 <img src="https://github.com/AnnDkk/Coding-2--Lab-Work/blob/main/Coding2%20Image/WechatIMG456.png" width="400" height="200">
 </div>
@@ -22,7 +22,7 @@ Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=358fbc0d-
 
 
 ## Python.1--WEEK 5
-Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4146258b-4834-482a-af21-afc601230ccc
+Video Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=4146258b-4834-482a-af21-afc601230ccc
 <br>
 By playing the python Challenge game I found that python can be used to solve many problems, so I made my own python challenge! 
 <br>
@@ -40,7 +40,7 @@ The initial number of dumplings: 12,25,8,2,16,4,10,6,10,20
 ## Python.2--WEEK 6&7
 Cats dataset
 <br>
-Viedo Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6fd7ecbe-e2f1-465c-8192-afc601230553
+Video Link：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=6fd7ecbe-e2f1-465c-8192-afc601230553
 
 
 <div align=center>
