@@ -1,5 +1,5 @@
 # Coding-2--Lab-Work
-Video collection：
+Video collection：https://ual.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=97aac00b-2d53-4b50-a4a4-afc60124885d
 
 ## C++.1--WEEK 2
 Using openframework to transform the sound spectrum appeared heart wave
